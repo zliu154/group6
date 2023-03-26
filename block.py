@@ -7,6 +7,7 @@ Group Members:
 """
 
 from random import randint
+from typing import List
 
 DATA_FILE = 'sampleData.txt'
 
@@ -163,7 +164,7 @@ def create_blockchain(semester: str) -> BlockChain:
     return blockchain
 
 
-def get_blockchains(file: str) -> list[BlockChain]:
+def get_blockchains(file: str) -> List[BlockChain]:
     """
     Create blockchains from a given file, and return a list of blockchains.
     :param file: the file name
