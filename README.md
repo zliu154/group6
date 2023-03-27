@@ -3,7 +3,7 @@
 ### Table of Contents
 1. [Group Project Introduction](#group-project-introduction)
 2. [Program instructions](#program-instructions)
-3. [Group member and each person's role](#group-member-and-each-person-role)
+3. [Group member](#group-member)
 4. [each person's work](#each-person-work)
 
 ## **Group Project Introduction**
